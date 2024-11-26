@@ -1,6 +1,10 @@
 # Simple-Budget-App
 Developed a budget application that tracks income and expences
 
+![GitHub Repo Size](https://img.shields.io/github/repo-size/rishav0821/Simple-Budget-App)
+![GitHub Stars](https://img.shields.io/github/stars/rishav0821/Simple-Budget-App?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/rishav0821/Simple-Budget-App?style=social)
+
 ## ✨Features
 - **Add Transactions:Dropdown for "Income" or "Expense" and Input fields for "Category" and "Amount".**
 - **View Transactions:Displays all transactions in a TreeView table.**
